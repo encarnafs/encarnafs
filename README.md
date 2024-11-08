@@ -5,5 +5,5 @@
 encarnafs/encarnafs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Linkedin](https://img.shields.io/badge/Encarna%20-%20Linkedin%20-%20blue)](linkedin.com/in/encarna-fernandez-sanchez)
+[![Linkedin](https://img.shields.io/badge/Encarna%20-%20Linkedin%20-%20blue)]([https://linkedin.com/in/encarna-fernandez-sanchez](https://www.linkedin.com/in/encarna-fernandez-sanchez/))
 
