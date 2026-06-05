@@ -8,11 +8,12 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin](https://img.shields.io/badge/Encarna%20-%20Linkedin%20-%20blue)](https://www.linkedin.com/in/encarna-fernandez-sanchez/)
 
 ## Sobre mi
-Apasionada de la programación de software con más de 15 años de experiencia.
-He desarrollado mi actividad en el sector bancario e industrial (metal, automoción, alimentación, packaging) consiguiendo solución de problemas e importantes mejoras en producción.
+Ingeniera de software con más de 15 años de experiencia en desarrollo de soluciones tecnológicas para los sectores industrial y bancario, resolviendo problemas complejos y contribuyendo a mejoras significativas en producción.
 
-Me he especializado en .NET, trabajando con C# y VB.NET sobre .NET Framework y .NET(8/9/10). Desarrollo apps de escritorio con WPF, patrón MVVM y también APIs REST con ASP.NET Core, utilizando Minimal APIs y APIs basadas en controladores con patrón MVC.
-ORM EF y EF Core, JWT (autenticación/autorización en APIs REST).
-En cuanto a arquitectura y buenas prácticas, aplico patrones como MVVM, principios SOLID y Clean Architecture, priorizando la calidad, mantenibilidad y escalabilidad del código.
+Especializada en .NET, trabajando con C# y VB.NET sobre .NET Framework y .NET(5-9). Desarrollo apps de escritorio con WPF, patrón MVVM y también APIs REST con ASP.NET Core, mediante Minimal APIs y APIs con controladores, incluyendo autenticación y autorización JWT. 
+
+Experiencia en la creación de APIs robustas mediante gestión centralizada de errores con middleware, junto con la aplicación de principios SOLID y buenas prácticas de diseño.
+
+Conocimiento y uso de arquitecturas y patrones como Clean Architecture, DDD, CQRS y MVC para construir soluciones mantenibles, escalables y alineadas con las necesidades del negocio.
 
 Estoy preparada para trabajar con metodologías Agile y gestionar Proyectos IT.
